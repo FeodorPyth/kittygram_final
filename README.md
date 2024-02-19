@@ -136,7 +136,7 @@ sudo nano /etc/nginx/sites-enabled/default
 
 ```sh
 location / {
-        proxy_pass http://127.0.0.1:8000;
+        proxy_pass http://127.0.0.1:9000;
     }
 ```
 
