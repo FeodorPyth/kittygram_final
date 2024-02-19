@@ -33,8 +33,8 @@ git clone git@github.com:FeodorPyth/kittygram_final.git
 cd kittygram_final
 ```
 
-Cоздать файл .env для хранения переменных окружения:
-Перечень необходимых данных указан в файле .env.example
+Cоздать файл .env для хранения переменных окружения.
+Перечень необходимых данных указан в файле .env.example:
 
 ```sh
 touch .env
