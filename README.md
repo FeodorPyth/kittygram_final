@@ -46,11 +46,11 @@ nano .env
 
 ```sh
 cd frontend
-docker build -t username/taski_frontend .
+docker build -t username/kittygram_frontend .
 cd ../backend
-docker build -t username/taski_backend .
+docker build -t username/kittygram_backend .
 cd ../gateway
-docker build -t username/taski_gateway .
+docker build -t username/kittygram_gateway .
 ```
 
 Отправить собранные образы на DockerHub:
